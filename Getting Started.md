@@ -1,3 +1,5 @@
+Changed file name to Getting Started
+
 Getting Started with GitHub and Gitpod
 
 I already have a GitHub account, no need to create one.
